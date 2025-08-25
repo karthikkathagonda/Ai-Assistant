@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "What is the?"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like your question is incomplete. Could you please rephrase or complete your question? I'll do my best to provide an accurate answer."
+    },
+    {
+        "role": "user",
+        "content": "What is python?"
+    },
+    {
+        "role": "assistant",
+        "content": "Python is a high-level, interpreted programming language."
+    }
+]

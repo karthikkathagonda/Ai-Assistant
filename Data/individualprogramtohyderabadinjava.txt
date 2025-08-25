@@ -1,0 +1,15 @@
+Here is a Java program that prints "Hyderabad" on the screen:
+
+```
+public class Hyderabad {
+    public static void main(String[] args) {
+        System.out.println("Hyderabad");
+    }
+}
+```
+
+This program defines a class called `Hyderabad` and a main method. The main method is the entry point of the program and is where the code inside the method is executed when the program is run.
+
+The `System.out.println()` method is used to print the string "Hyderabad" on the screen.
+
+I hope this helps! Let me know if you have any questions.

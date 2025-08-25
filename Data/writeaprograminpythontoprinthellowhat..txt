@@ -1,0 +1,18 @@
+Here is a simple Python program that prints "Hello, what":
+
+```
+print("Hello, what")
+```
+
+When you run this program, it will display the text "Hello, what" on the screen.
+
+You can also use string formatting to insert a variable into the printed text. For example:
+
+```
+name = "Karthik"
+print(f"Hello, {name}")
+```
+
+This will print "Hello, Karthik" on the screen.
+
+I hope this helps! Let me know if you have any questions.
